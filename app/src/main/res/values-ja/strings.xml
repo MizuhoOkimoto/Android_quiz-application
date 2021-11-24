@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">クイズアプリケーション</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="questions">ここにクイズが表示されます</string>
+    <string name="trueButton">いえす</string>
+    <string name="falseButton">のー</string>
+<!--    <string name="question1">Is Ontario capital city in Canada</string>-->
+<!--    <string name="question2">1 + 2 is 4</string>-->
+<!--    <string name="question3">Emus can fly</string>-->
+<!--    <string name="question4">Electrons move faster than the speed of light</string>-->
+<!--    <string name="question5">Peanuts are nuts!</string>-->
+
+</resources>
